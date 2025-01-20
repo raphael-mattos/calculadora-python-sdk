@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Simple calculator API hosted on APIMATIC
+Simple calculator API hosted on APIMATIC versão 1.0.1
 
 ## Building
 
@@ -81,7 +81,7 @@ pytest
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://www.github.com/raphael-mattos/calculadora-python-sdk/tree/1.0.0/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://www.github.com/raphael-mattos/calculadora-python-sdk/tree/1.0.1/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
@@ -107,11 +107,11 @@ client = ApimaticcalculatorClient(
 
 ## List of APIs
 
-* [Simple Calculator](https://www.github.com/raphael-mattos/calculadora-python-sdk/tree/1.0.0/doc/controllers/simple-calculator.md)
+* [Simple Calculator](https://www.github.com/raphael-mattos/calculadora-python-sdk/tree/1.0.1/doc/controllers/simple-calculator.md)
 
 ## Classes Documentation
 
-* [Utility Classes](https://www.github.com/raphael-mattos/calculadora-python-sdk/tree/1.0.0/doc/utility-classes.md)
-* [HttpResponse](https://www.github.com/raphael-mattos/calculadora-python-sdk/tree/1.0.0/doc/http-response.md)
-* [HttpRequest](https://www.github.com/raphael-mattos/calculadora-python-sdk/tree/1.0.0/doc/http-request.md)
+* [Utility Classes](https://www.github.com/raphael-mattos/calculadora-python-sdk/tree/1.0.1/doc/utility-classes.md)
+* [HttpResponse](https://www.github.com/raphael-mattos/calculadora-python-sdk/tree/1.0.1/doc/http-response.md)
+* [HttpRequest](https://www.github.com/raphael-mattos/calculadora-python-sdk/tree/1.0.1/doc/http-request.md)
 

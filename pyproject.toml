@@ -3,7 +3,7 @@ build-backend = "setuptools.build_meta"
 requires = ["setuptools>=61.0"]
 [project]
 name = "apimaticcalculator"
-description = "Simple calculator API hosted on APIMATIC"
+description = "Simple calculator API hosted on APIMATIC versão 1.0.1"
 version = "1.0.0"
 requires-python = ">=3.7"
 authors = [{name = "APIMatic Code Generator", email = "support@apimatic.io"}]
